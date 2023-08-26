@@ -17,5 +17,5 @@ Find your way, find your job right away !
 
 # Login 
 you can test this app by register first with the **/register** api or by login with this credential : 
-**email** : usertest@gmail.com
-**password** : InstaTest1
+* **email** : usertest@gmail.com
+* **password** : InstaTest1
